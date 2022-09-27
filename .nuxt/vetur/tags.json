@@ -1,0 +1,17 @@
+{
+  "DateFilter": {
+    "description": "Auto imported from components/DateFilter.vue"
+  },
+  "MyFooter": {
+    "description": "Auto imported from components/MyFooter.vue"
+  },
+  "MyHeader": {
+    "description": "Auto imported from components/MyHeader.vue"
+  },
+  "PostsList": {
+    "description": "Auto imported from components/PostsList.vue"
+  },
+  "SideBar": {
+    "description": "Auto imported from components/SideBar.vue"
+  }
+}
